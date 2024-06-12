@@ -1,0 +1,23 @@
+lastupdatecheck: 0
+recentrepos:
+    - /home/danda/dev/cm/tripp-unity-mobile-client
+    - /home/danda/dev/personal/umlify-client
+    - /home/danda/dev/cm/nativemediaplayer
+    - /home/danda/dev/personal/layouting-unity
+startuppopupversion: 5
+lastversion: 0.42.0
+customcommandshistory:
+    - git restore .
+    - q
+    - git push origin HEAD
+    - git rebase -i HEAD~11
+    - git rebase -i HEAD~10
+    - w
+    - git status -uno
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
